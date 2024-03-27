@@ -1,0 +1,8 @@
+.vscode
+.nvim
+vos-cli
+*.txt
+.DS_Store
+compiled-binaries
+
+!compiled-binaries/bin-upload-prep.sh
